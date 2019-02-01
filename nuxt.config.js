@@ -21,7 +21,7 @@ module.exports = {
   /*
   ** router
   */
- router: { base: '/rakibulhaq/' },
+ router: { base: '/rakibulhaq.github.io/' },
   /*
   ** Build configuration
   */
